@@ -1,0 +1,26 @@
+﻿<Window x:Class="CleanXprez.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CleanXprez"
+        mc:Ignorable="d"
+        Title="CleanXprez" Height="250" Width="400" WindowStyle="ToolWindow">
+    <Grid>
+        <Canvas Width="24" Height="24" Margin="342,81,31,237"/>
+        <CheckBox x:Name="TempCheckBox" Content="Temporary Files" HorizontalAlignment="Left" Margin="147,13,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="CompileCheckBox" Content="Compile Files" HorizontalAlignment="Left" Margin="147,93,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="RecentCheckBox" Content="Recent Files" HorizontalAlignment="Left" Margin="147,73,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="PrefetchCheckBox" Content="Prefetch Files" HorizontalAlignment="Left" Margin="147,53,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="HidTempCheckBox" Content="Hidden Temporary Files" HorizontalAlignment="Left" Margin="147,33,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="CleanButton" Content="Start Clean" HorizontalAlignment="Left" Margin="283,110,0,0" VerticalAlignment="Top" Width="75" Height="33"/>
+        <Label x:Name="TempSize" Content="Label" HorizontalAlignment="Left" Margin="47,10,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="HidSize" Content="Label" HorizontalAlignment="Left" Margin="47,30,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="PrefetchSize" Content="Label" HorizontalAlignment="Left" Margin="47,47,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="RecentSize" Content="Label" HorizontalAlignment="Left" Margin="47,67,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label1" Content="© Rasedur Rahman Roxy From XprezWare" HorizontalAlignment="Left" Margin="81,184,0,0" VerticalAlignment="Top"/>
+        <ProgressBar x:Name="CleanProgress" HorizontalAlignment="Left" Height="19" Margin="10,151,0,0" VerticalAlignment="Top" Width="271"/>
+        <Label x:Name="label2" Content="0 %" HorizontalAlignment="Left" Margin="295,148,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

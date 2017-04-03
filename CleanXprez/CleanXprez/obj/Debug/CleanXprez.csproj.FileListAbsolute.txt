@@ -1,0 +1,14 @@
+C:\Users\ROXY\Documents\Project\CleanXprez\CleanXprez\bin\Debug\CleanXprez.exe.config
+C:\Users\ROXY\Documents\Project\CleanXprez\CleanXprez\bin\Debug\CleanXprez.exe
+C:\Users\ROXY\Documents\Project\CleanXprez\CleanXprez\bin\Debug\CleanXprez.pdb
+C:\Users\ROXY\Documents\Project\CleanXprez\CleanXprez\obj\Debug\CleanXprez.csprojResolveAssemblyReference.cache
+C:\Users\ROXY\Documents\Project\CleanXprez\CleanXprez\obj\Debug\MainWindow.g.cs
+C:\Users\ROXY\Documents\Project\CleanXprez\CleanXprez\obj\Debug\App.g.cs
+C:\Users\ROXY\Documents\Project\CleanXprez\CleanXprez\obj\Debug\CleanXprez_MarkupCompile.cache
+C:\Users\ROXY\Documents\Project\CleanXprez\CleanXprez\obj\Debug\CleanXprez_MarkupCompile.lref
+C:\Users\ROXY\Documents\Project\CleanXprez\CleanXprez\obj\Debug\MainWindow.baml
+C:\Users\ROXY\Documents\Project\CleanXprez\CleanXprez\obj\Debug\CleanXprez.g.resources
+C:\Users\ROXY\Documents\Project\CleanXprez\CleanXprez\obj\Debug\CleanXprez.Properties.Resources.resources
+C:\Users\ROXY\Documents\Project\CleanXprez\CleanXprez\obj\Debug\CleanXprez.csproj.GenerateResource.Cache
+C:\Users\ROXY\Documents\Project\CleanXprez\CleanXprez\obj\Debug\CleanXprez.exe
+C:\Users\ROXY\Documents\Project\CleanXprez\CleanXprez\obj\Debug\CleanXprez.pdb
